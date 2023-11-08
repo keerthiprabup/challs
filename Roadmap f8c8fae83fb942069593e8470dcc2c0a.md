@@ -57,8 +57,8 @@ so that it will make all the roadmaps on the present constructor public.
 
 The payload we used in making the roadmap:
 
-```json
-{”content”:”ayn”,“public”:true,“constructor”:{"prototype”:{“public”:true}}}
+```
+{"content":"ayn","public":true,"constructor":{"prototype":{"public":true}}}
 ```
 
 After successfully executing the payload, Now we can reload the index page as we have set the constructor is such a way that the roadmaps present in the app were set to public.
